@@ -11,6 +11,8 @@ Flutter-文章集合
 
 政采云Flutter低成本屏幕适配方案探索 :https://juejin.cn/post/7078816723666731021
 
+深入研究Flutter布局原理：https://juejin.cn/post/6897012238318895117#heading-7
+
 
 ## 设计模式
 
