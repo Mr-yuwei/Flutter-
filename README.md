@@ -17,3 +17,8 @@ Flutter-文章集合
 ## 设计模式
 
 Flutter(able) 的单例模式 ：https://zhuanlan.zhihu.com/p/395357295
+
+
+# 状态管理
+
+Flutter状态管理之 Provider 使用详解 ：https://juejin.cn/post/7067356022272163847 [强烈推荐]
