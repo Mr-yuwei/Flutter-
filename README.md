@@ -22,3 +22,10 @@ Flutter(able) 的单例模式 ：https://zhuanlan.zhihu.com/p/395357295
 # 状态管理
 
 Flutter状态管理之 Provider 使用详解 ：https://juejin.cn/post/7067356022272163847 [强烈推荐]
+
+
+# 富文本
+
+图解 TextPainter与TextSpan小尝试:https://www.jianshu.com/p/0fd1eaea6269
+
+Flutter：如何获取文本行数:https://www.codingdict.com/questions/97535
