@@ -34,3 +34,9 @@ Flutter：如何获取文本行数:https://www.codingdict.com/questions/97535
 # 路由层
 
 ff_annotation_route:https://juejin.cn/post/6844903919601074190
+
+# 事件传递
+
+
+IgnorePointer&AbsorbPointer : https://www.jianshu.com/p/49b47162e095
+
